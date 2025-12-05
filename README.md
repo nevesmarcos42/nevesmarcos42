@@ -13,7 +13,7 @@
 Sou bacharel em Ciência da Computação e desenvolvedor com foco em **back-end, full-stack e dados**.  
 Tenho experiência criando APIs robustas, integrando bancos de dados, usando containers e aplicando técnicas de Machine Learning/Deep Learning.
 
-Além disso, busco sempre escrever código limpo, organizado e bem documentado — seguindo boas práticas, padrões de projeto e arquitetura.
+Além disso, busco sempre escrever código limpo, organizado e bem documentado, seguindo boas práticas, padrões de projeto e arquitetura.
 
 ---
 
