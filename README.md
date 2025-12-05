@@ -7,8 +7,8 @@ Java • Spring Boot • Django • FastAPI • ReactJS • React Native • Ang
 
 ##  Sobre mim
 
-- Estudante / Estagiário em TI com foco em back-end, full-stack e dados.  
-- Gosto de construir APIs escaláveis, trabalhar com banco de dados (PostgreSQL, MySQL), e aplicar técnicas de ML/Deep Learning.  
+- Bacharel em Ciência da Computação / Desenvolvedor com foco em back-end, full-stack e dados.  
+- Gosto de construir APIs escaláveis, trabalhar com banco de dados (PostgreSQL, MySQL, NodesJs), e aplicar técnicas de ML/Deep Learning.  
 - Sempre buscando aprender, colaborar e entregar código limpo, testado e bem documentado.  
 
 ---
@@ -30,8 +30,6 @@ Java • Spring Boot • Django • FastAPI • ReactJS • React Native • Ang
 | **Rental-API** | API da locadora de veículos com .NET 8, PostgreSQL, Kafka, Docker, JWT, testes automatizados. |
 | **Price-Wise-Fullstack** | App completo (front-end + back-end) para controle de estoque, descontos, cupons. |
 | **HeatIA-Recife-Web** | Projeto de Machine Learning para previsão de vítimas em acidentes de trânsito com dados históricos. |
-
-(Coloque uma breve descrição e link direto para o repositório de cada um.)
 
 ---
 
