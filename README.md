@@ -19,20 +19,6 @@ Java • Spring Boot • Django • FastAPI • ReactJS • React Native • Ang
 |------------------------|--------------------------|----------------------------------|----------------------------|
 | Java, Spring Boot, .NET, Django, FastAPI, Node.js | ReactJS, Angular, React Native | PostgreSQL, MySQL, Docker, Git | Python, Pandas, NumPy, TensorFlow, PyTorch, Matplotlib |
 
----
-
-##  Principais Projetos
-
-| Projeto (Pinned) | Descrição / Destaques |
-|------------------|----------------------|
-| **API-Cameras** | API REST em Node.js para cadastro e monitoramento de câmeras (evento, movimentação). |
-| **API-Vendas** | Sistema com ASP.NET Core + RabbitMQ + PostgreSQL — exemplo de microsserviços e mensageria. |
-| **Rental-API** | API da locadora de veículos com .NET 8, PostgreSQL, Kafka, Docker, JWT, testes automatizados. |
-| **Price-Wise-Fullstack** | App completo (front-end + back-end) para controle de estoque, descontos, cupons. |
-| **HeatIA-Recife-Web** | Projeto de Machine Learning para previsão de vítimas em acidentes de trânsito com dados históricos. |
-
----
-
 ##  Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/nevesmarcos)  
