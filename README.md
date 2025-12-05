@@ -55,15 +55,6 @@ Além disso, busco sempre escrever código limpo, organizado e bem documentado �
 
 ---
 
-##  Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nevesmarcos42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevesmarcos42&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ##  Como me encontrar
 
 -  **LinkedIn:** https://www.linkedin.com/in/nevesmarcos  
