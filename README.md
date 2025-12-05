@@ -38,7 +38,7 @@ Java • Spring Boot • Django • FastAPI • ReactJS • React Native • Ang
 ##  Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/nevesmarcos)  
-- E-mail: nevesmarc42@gmail.com
+- [E-mail](nevesmarc42@gmail.com)
 
 ---
 
