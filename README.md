@@ -1,49 +1,87 @@
-# Olá, eu sou Marcos Neves
+<!-- Banner ou título -->
+<h1 align="center"> Olá, eu sou Marcos Neves</h1>
+<h3 align="center">Desenvolvedor Back-End • Full Stack • Data Enthusiast</h3>
 
-**Full-Stack / Back-End / Data Enthusiast**  
-Java • Spring Boot • Django • FastAPI • ReactJS • React Native • Angular • Node.js • .NET • Python • Machine Learning / Deep Learning
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nevesmarcos42&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ##  Sobre mim
 
-- Bacharel em Ciência da Computação / Desenvolvedor com foco em back-end, full-stack e dados.  
-- Gosto de construir APIs escaláveis, trabalhar com banco de dados (PostgreSQL, MySQL, NodesJs), e aplicar técnicas de ML/Deep Learning.  
-- Sempre buscando aprender, colaborar e entregar código limpo, testado e bem documentado.  
+Sou bacharel em Ciência da Computação e desenvolvedor com foco em **back-end, full-stack e dados**.  
+Tenho experiência criando APIs robustas, integrando bancos de dados, usando containers e aplicando técnicas de Machine Learning/Deep Learning.
+
+Além disso, busco sempre escrever código limpo, organizado e bem documentado — seguindo boas práticas, padrões de projeto e arquitetura.
 
 ---
 
-##  Tech Stack & Ferramentas
+##  Tech Stack
 
-| Back-end / API        | Front-end / Web / Mobile | Banco de Dados & Infra / DevOps | Data / ML / Outros         |
-|------------------------|--------------------------|----------------------------------|----------------------------|
-| Java, Spring Boot, .NET, Django, FastAPI, Node.js | ReactJS, Angular, React Native | PostgreSQL, MySQL, Docker, Git | Python, Pandas, NumPy, TensorFlow, PyTorch, Matplotlib |
+### **Back-End / APIs**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+</p>
+
+### **Front-End**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+</p>
+
+### **Banco de Dados & DevOps**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
+
+### **Ciência de Dados / ML**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+</p>
+
+---
+
+##  Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nevesmarcos42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevesmarcos42&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
 
 ##  Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/nevesmarcos)  
-- [E-mail](nevesmarc42@gmail.com)
+-  **LinkedIn:** https://www.linkedin.com/in/nevesmarcos  
+-  **E-mail:** nevesmarc42@gmail.com  
 
 ---
 
 ##  Interesses & Objetivos
 
-- Trabalhar com back-end robusto, APIs REST, microsserviços, dados e pipelines de dados.  
-- Participar de projetos open-source, colaborar em time e construir soluções que causem impacto.  
-- Aprender mais sobre DevOps, arquiteturas escaláveis e ML aplicada a problemas reais.  
+- Criar APIs escaláveis, seguras e de alta performance  
+- Trabalhar com microsserviços, mensageria, dados e arquiteturas modernas  
+- Contribuir com open-source e colaborar em equipes  
+- Aprofundar conhecimentos em DevOps, cloud, sistemas distribuídos e ML aplicado  
 
+---
 
-<!--
-**nevesmarcos42/nevesmarcos42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Curiosidade
 
-Here are some ideas to get you started:
+> "Tecnologia muda rápido. Eu estudo todos os dias para acompanhar, melhorar e entregar o meu melhor."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
