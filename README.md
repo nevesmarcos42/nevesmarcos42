@@ -36,6 +36,16 @@ Além disso, busco sempre escrever código limpo, organizado e bem documentado, 
   <a href="#"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
 </p>
 
+### **Quality Engineering / Testing**
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Karate_Framework-FF6C37?style=for-the-badge&logo=apache&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/API_Testing-009688?style=for-the-badge&logoColor=white"></a>
+</p>
+
 ### **Banco de Dados & DevOps**
 <p>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
